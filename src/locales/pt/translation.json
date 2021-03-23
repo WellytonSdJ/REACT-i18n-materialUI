@@ -1,0 +1,25 @@
+{
+    "aoba": "bao",
+    "header": {
+        "page1": "Inicio",
+        "page2": "Internacionalização"
+    },
+    "inter": {
+        "title": {
+            "t1": "Introdução",
+            "t2": "aprenda uma vez - traduza em qualquer lugar"
+        },
+        "description": {
+            "pt1": " I18next é uma estrutura de internacionalização escrita dentro e para JavaScript. Mas é muito mais do que isso.",
+            "pt2": "o i18next vai além de apenas fornecer as características padrão do i18n, como (plurals, contexto, interpolação, formato). Ele fornece uma solução completa para localizar seu produto da web para o celular e desktop.",
+            "pt3": "A comunidade i18next criou integrações para frameworks front-end como React, AngularJS, Vue.js e muitos mais.",
+            "pt4": "Mas não é aqui que termina ... você também pode usar i18next com Node.js, PHP, iOS, Android e outras plataformas.",
+            "link1": "Saiba mais sobre as estruturas suportadas"
+        }
+    },
+    "home": {
+        "title": {
+            "t1": "Bem vindo à página principal!"
+        }
+    }
+}

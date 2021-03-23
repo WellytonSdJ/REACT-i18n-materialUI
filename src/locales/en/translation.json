@@ -1,0 +1,26 @@
+{
+    "aoba": "gud",
+    "header": {
+        "page1": "Home",
+        "page2": "Internationalization",
+        "page3": "About"
+    },
+    "home": {
+        "title": {
+            "t1": "Welcome to homepage!"
+        }
+    },
+    "inter": {
+        "title": {
+            "t1": "Introduction",
+            "t2": "learn once - translate everywhere"
+        },
+        "description": {
+            "pt1": "I18next is an internationalization-framework written in and for JavaScript. But it's much more than that.",
+            "pt2": "i18next goes beyond just providing the standard i18n features such as (plurals, context, interpolation, format). It provides you with a complete solution to localize your product from web to mobile and desktop.",
+            "pt3": "The i18next-community created integrations for frontend-frameworks such as React, AngularJS, Vue.js and many more.",
+            "pt4": "  But this is not where it ends...you can also use i18next with Node.js, PHP, iOS, Android and other platforms.",
+            "link1": "Learn more about supported frameworks"
+        }
+    }
+}
